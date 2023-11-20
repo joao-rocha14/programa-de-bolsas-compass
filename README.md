@@ -1,7 +1,4 @@
 <div align="center">
-        <div align="center">
-        <img width="120" height="120" src="sprint_1/evidencias/EFJC.gif" alt="dev">
-        </div>
         <a href="https://www.linkedin.com/in/joão-pedro-rocha-44b0942a0/">
             <img width="80" height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
         </a>
